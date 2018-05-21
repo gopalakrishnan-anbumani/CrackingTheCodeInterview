@@ -3,7 +3,7 @@ package com.program.chapter2;
 public class DeleteMiddleNode {
 
 	static Node head;
-	@SuppressWarnings("static-access")
+	
 	public static void main(String[] args) {
 		SingleLinkedList list = new SingleLinkedList();
 		list.addNode(1);
